@@ -1,2 +1,4 @@
-# LinearTemporalLogic
-A collection of papers and projects about linear temporal logic
+# Collection
+A collection of papers and projects
+
+
