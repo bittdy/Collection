@@ -6,5 +6,5 @@ A collection of papers and projects
 * [slam]()
 * [transfer learning and reinforcement learning]()
 
-## linear temporal logic
+# linear temporal logic
 
