@@ -15,6 +15,12 @@ A collection of papers and projects
 
 3. Motion Programs for Multi-Agent Control: From Specification to Execution
 
+4. Formal Approach to the Deployment of Distributed Robotic Teams 
+
+5. Receding Horizon Temporal Logic Planning
+
+6. Motion and Action Planning under LTL Speciﬁcations using Navigation Functions and Action Description Language
+
 
 ## slam
 >some paper and projects about slam
