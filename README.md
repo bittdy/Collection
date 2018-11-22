@@ -31,7 +31,16 @@ A collection of papers and projects
 13. Concurrent Multi-Agent Systems with Temporal Logic Objectives: Game Theoretic Analysis and Planning through Negotiation
 14. Cooperative Decentralized Multi-agent Control under Local LTL Tasks and Connectivity Constraints
 15. Decentralized Hybrid Formation Control of Unmanned Aerial Vehicles
-16. 
+16. Distributed Plan Reconﬁguration via Knowledge Transfer in Multi-agent Systems under Local LTL Speciﬁcations
+17. Learning-based Formal Synthesis of Cooperative Multi-agent Systems with an Application to Robotic Coordination
+18. Maximally Satisfying LTL Action Planning
+19. Multi-agent plan reconfiguration under local LTL specifications
+20. Bottom-up Motion and Task Coordination for Loosely-coupled Multi-agent Systems with Dependent Local Tasks
+21. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints
+22. Cooperative Task Planning of Multi-Agent Systems Under Timed Temporal Speciﬁcations
+23. Decomposition of Multi-Agent Planning under Distributed Motion and Task LTL Speciﬁcations
+24. Hybrid Control of Multi-Agent Systems under Local Temporal Tasks and Relative-Distance Constraints
+25. Learning-based Design of Fault-tolerant Cooperative Multi-agent Systems
 
 ## slam
 >some paper and projects about slam
