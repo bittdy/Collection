@@ -9,7 +9,12 @@ A collection of papers and projects
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
 
-1. Decomposition of Multi-Agent Planning under Distributed Motion and Task LTL Speciﬁcations
+1. A Formal Approach to Deployment of Robotic Teams in an Urban-Like Environment
+
+2. Fast LTL to B¨uchi Automata Translation
+
+3. Motion Programs for Multi-Agent Control: From Specification to Execution
+
 
 ## slam
 >some paper and projects about slam
