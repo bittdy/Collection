@@ -10,6 +10,7 @@ A collection of papers and projects
 >motion planning for multi-robot through linear temporal logic
 
 1. A Formal Approach to Deployment of Robotic Teams in an Urban-Like Environment
+>use formal method to deploy a robotic teams in an urban-like environment
 
 2. Fast LTL to B¨uchi Automata Translation
 
