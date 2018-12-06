@@ -63,6 +63,7 @@ A collection of papers and projects
 44. Human-in-the-Loop Mixed-Initiative Control under Temporal Tasks
 45. Motion and Cooperative Transportation Planning for Multi-Agent Systems under Temporal Logic Formulas 
 46. Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks 
+47. Probabilistic Motion Planning under Temporal Tasks and Soft Constraints
 
 ## slam
 >some paper and projects about slam
