@@ -13,7 +13,7 @@ A collection of papers and projects
 >Use formal method to deploy a robotic teams in an urban-like environment
 
 2. Fast LTL to B¨uchi Automata Translation
->A method to onvert ltl task specifications to B¨uchi Automaton
+>A method to convert ltl task specifications to B¨uchi Automaton
 
 3. Motion Programs for Multi-Agent Control: From Specification to Execution
 
