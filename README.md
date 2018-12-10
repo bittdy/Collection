@@ -70,3 +70,4 @@ A collection of papers and projects
 >some paper and projects about slam
 ## transfer learning and reinforcement learning
 1. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+> MADDPG method for multi-agent system, which is applible for both cooperative and competitive environment.
