@@ -69,3 +69,4 @@ A collection of papers and projects
 ## slam
 >some paper and projects about slam
 ## transfer learning and reinforcement learning
+1. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
