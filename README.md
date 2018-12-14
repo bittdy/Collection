@@ -68,6 +68,8 @@ A collection of papers and projects
 
 ## slam
 >some paper and projects about slam
-## transfer learning and reinforcement learning
+## learning
+>transfer learning, reinforcement learning and imitating learning
 1. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 > MADDPG method for multi-agent system, which is applible for both cooperative and competitive environment.
+2. ChauﬀeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst
