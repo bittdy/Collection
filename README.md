@@ -75,3 +75,4 @@ A collection of papers and projects
 2. ChauﬀeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst
 >
 ## online linear program
+>find a shadow value and this shadow value will role as the minimal optimal value during the online linear program.
