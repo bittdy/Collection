@@ -78,3 +78,4 @@ A collection of papers and projects
 >find a shadow value and this shadow value will role as the minimal optimal value during the online linear program.
 1. Distributed robust optimization
 > Consider a set of distributions and choose to maximize the expect value.
+2. Online linear programming and dynamic learning
