@@ -5,6 +5,7 @@ A collection of papers and projects
 * [linear temporal logic]()
 * [slam]()
 * [transfer learning and reinforcement learning]()
+* [fuzzy logic]
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
@@ -80,3 +81,6 @@ A collection of papers and projects
 > Consider a set of distributions and choose to maximize the expect value.
 2. Online linear programming and dynamic learning
 3. A Dynamic Near-Optimal Algorithm for Online Linear Programming
+
+## fuzzy logic
+1. A Self-Organizing Fuzzy Neural Network Based on a Growing-and-Pruning Algorithm 
