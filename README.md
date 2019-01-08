@@ -84,3 +84,4 @@ A collection of papers and projects
 
 ## fuzzy logic
 1. A Self-Organizing Fuzzy Neural Network Based on a Growing-and-Pruning Algorithm 
+2. Real-Time Model Predictive Control Using a Self-Organizing Neural Network 
