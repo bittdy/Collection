@@ -5,7 +5,7 @@ A collection of papers and projects
 * [linear temporal logic]()
 * [slam]()
 * [transfer learning and reinforcement learning]()
-* [fuzzy logic]
+* [fuzzy logic]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
