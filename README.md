@@ -66,6 +66,7 @@ A collection of papers and projects
 45. Motion and Cooperative Transportation Planning for Multi-Agent Systems under Temporal Logic Formulas 
 46. Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks 
 47. Probabilistic Motion Planning under Temporal Tasks and Soft Constraints
+48. CTL* and ECTL* as fragments of the modal mu-calculus
 
 ## slam
 >some paper and projects about slam
@@ -87,3 +88,4 @@ A collection of papers and projects
 2. Real-Time Model Predictive Control Using a Self-Organizing Neural Network 
 3. Separable GPL: Decidable Model Checking with More Non-Determinism 
 4. Probabilistics Temporal Logics via the Model Mu-Calculus
+5. 
