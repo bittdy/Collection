@@ -67,6 +67,7 @@ A collection of papers and projects
 46. Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks 
 47. Probabilistic Motion Planning under Temporal Tasks and Soft Constraints
 48. CTL* and ECTL* as fragments of the modal mu-calculus
+49. CTL* Synthesis via LTL Synthesis
 
 ## slam
 >some paper and projects about slam
