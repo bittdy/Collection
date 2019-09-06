@@ -6,6 +6,7 @@ A collection of papers and projects
 * [slam]()
 * [transfer learning and reinforcement learning]()
 * [fuzzy logic]()
+* [pomdp]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
