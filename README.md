@@ -91,3 +91,7 @@ A collection of papers and projects
 3. Separable GPL: Decidable Model Checking with More Non-Determinism 
 4. Probabilistics Temporal Logics via the Model Mu-Calculus
 5. 
+
+## pomdp
+1.
+2.
