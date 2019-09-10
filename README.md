@@ -96,3 +96,6 @@ A collection of papers and projects
 ## pomdp
 1.
 2.
+
+## some books
+1.
