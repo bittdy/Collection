@@ -94,7 +94,7 @@ A collection of papers and projects
 5. 
 
 ## pomdp
-1.
+1. Performance guaranteed human-tobot collaboration with POMDP supervisory control
 2.
 
 ## some books
