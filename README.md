@@ -99,3 +99,4 @@ A collection of papers and projects
 
 ## some books
 1. Reasoning with Probabilistic and Deterministic Graphical Modals
+2.
