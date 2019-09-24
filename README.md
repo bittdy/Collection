@@ -7,6 +7,7 @@ A collection of papers and projects
 * [transfer learning and reinforcement learning]()
 * [fuzzy logic]()
 * [pomdp]()
+* [pomdp with PCTL]()
 * [some books]()
 * [some branch HTML]()
 
