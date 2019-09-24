@@ -98,6 +98,10 @@ A collection of papers and projects
 1. Performance guaranteed human-tobot collaboration with POMDP supervisory control
 2. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications
 
+
+## pomdp with PCTL
+1. Counterexample-Guided Abstraction Refinement for POMDPs
+
 ## some books
 1. Reasoning with Probabilistic and Deterministic Graphical Modals
 2. Principle of Model Checking
