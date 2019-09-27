@@ -73,6 +73,8 @@ A collection of papers and projects
 48. CTL* and ECTL* as fragments of the modal mu-calculus
 49. CTL* Synthesis via LTL Synthesis
 
+50. Control with Probabilistics Signal Temporal Logic
+
 ## slam
 >some paper and projects about slam
 ## learning
@@ -108,4 +110,4 @@ A collection of papers and projects
 2. Principle of Model Checking
 
 ## some branch HTML
-1.
+1. 
