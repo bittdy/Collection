@@ -10,6 +10,7 @@ A collection of papers and projects
 * [pomdp with PCTL]()
 * [some books]()
 * [some branch HTML]()
+* [timed automata]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
