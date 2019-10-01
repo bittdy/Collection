@@ -12,6 +12,7 @@ A collection of papers and projects
 * [some branch HTML]()
 * [timed automata]()
 * [time pattern matching]()
+* [signal convolution logic]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
@@ -118,3 +119,4 @@ A collection of papers and projects
 ## some branch HTML
 1. 
 
+## signal convolution logic
