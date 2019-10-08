@@ -121,3 +121,5 @@ A collection of papers and projects
 1. 
 
 ## signal convolution logic
+
+## model predict control
