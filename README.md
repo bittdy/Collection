@@ -13,6 +13,7 @@ A collection of papers and projects
 * [timed automata]()
 * [time pattern matching]()
 * [signal convolution logic]()
+* [model predict control]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
