@@ -14,6 +14,7 @@ A collection of papers and projects
 * [time pattern matching]()
 * [signal convolution logic]()
 * [model predict control]()
+* [path planning]()
 
 ## linear temporal logic
 >motion planning for multi-robot through linear temporal logic
@@ -123,3 +124,5 @@ A collection of papers and projects
 ## signal convolution logic
 
 ## model predict control
+
+## path planning
