@@ -126,3 +126,6 @@ A collection of papers and projects
 ## model predict control
 
 ## path planning
+
+## useful blogs
+Voronoi diagram and Delaunay triangle:https://blog.csdn.net/kevin_darkelf/article/details/81455687
