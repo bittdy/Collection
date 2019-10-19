@@ -7,7 +7,7 @@ A collection of papers and projects
 * [transfer learning and reinforcement learning]()
 * [fuzzy logic]()
 * [pomdp]()
-* [pomdp with PCTL]()
+* [pomdp with TL]()
 * [some books]()
 * [some branch HTML]()
 * [timed automata]()
@@ -80,6 +80,8 @@ A collection of papers and projects
 
 50. Control with Probabilistics Signal Temporal Logic
 
+
+
 ## slam
 >some paper and projects about slam
 ## learning
@@ -107,9 +109,9 @@ A collection of papers and projects
 2. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications
 3. Control Theory Meets POMDPs: A Hybrid Systems Approach
 
-## pomdp with PCTL
+## pomdp with TL
 1. Counterexample-Guided Abstraction Refinement for POMDPs
-
+2. Optimal Observation Mode Scheduling for Systems under Temporal Constrains
 ## some books
 1. Reasoning with Probabilistic and Deterministic Graphical Modals
 2. Principle of Model Checking
