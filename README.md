@@ -102,7 +102,7 @@ A collection of papers and projects
 2. Real-Time Model Predictive Control Using a Self-Organizing Neural Network 
 3. Separable GPL: Decidable Model Checking with More Non-Determinism 
 4. Probabilistics Temporal Logics via the Model Mu-Calculus
-5. 
+5. a
 
 ## pomdp
 1. Performance guaranteed human-tobot collaboration with POMDP supervisory control
