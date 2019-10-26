@@ -130,7 +130,7 @@ A collection of papers and projects
 
 ## path planning
 1. Randomized Kinodynamic Planning
-
+2.
 ## useful blogs
 Voronoi diagram and Delaunay triangle: https://blog.csdn.net/kevin_darkelf/article/details/81455687
 Chi-square distribution and Chi-square test: https://blog.csdn.net/Doutd_y/article/details/82936007
