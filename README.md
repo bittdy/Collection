@@ -109,6 +109,7 @@ A collection of papers and projects
 2. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications
 3. Control Theory Meets POMDPs: A Hybrid Systems Approach
 4. Improving Scalability in Multi-Robot Systems with Abstraction and Specialization
+5.
 
 ## pomdp with TL
 1. Counterexample-Guided Abstraction Refinement for POMDPs
