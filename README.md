@@ -79,7 +79,8 @@ A collection of papers and projects
 49. CTL* Synthesis via LTL Synthesis
 
 50. Control with Probabilistics Signal Temporal Logic
-51
+
+51. Control Barrier Functions for Signal Temporal Logic Tasks 
 
 
 ## slam
