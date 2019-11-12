@@ -106,7 +106,7 @@ A collection of papers and projects
 5. a
 
 ## pomdp
-1. Performance guaranteed human-tobot collaboration with POMDP supervisory control
+1. Performance guaranteed human-robot collaboration with POMDP supervisory control
 2. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications
 3. Control Theory Meets POMDPs: A Hybrid Systems Approach
 4. Improving Scalability in Multi-Robot Systems with Abstraction and Specialization
