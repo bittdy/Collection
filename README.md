@@ -82,6 +82,9 @@ A collection of papers and projects
 
 51. Control Barrier Functions for Signal Temporal Logic Tasks 
 
+52. From Real-time Logic to Timed Automata
+> 本文通过point segment以及open segment等概念，研究了S，U，<->，<>四种基本的operator以及其在时间上的连续性，通过穷举point-segment和open segment的值组合，构建了转换成的TA的states，以及对应的edges
+
 
 ## slam
 >some paper and projects about slam
