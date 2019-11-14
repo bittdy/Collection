@@ -113,7 +113,8 @@ A collection of papers and projects
 2. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications
 3. Control Theory Meets POMDPs: A Hybrid Systems Approach
 4. Improving Scalability in Multi-Robot Systems with Abstraction and Specialization
-5.
+5. Sampling-Based Reactive Motion Planning with Temporal Logic Constraints and Imperfect State Information
+> 连续POMDP问题，不可观测变量为位置均值以及方差，对于精确位置，有观测模型计算其方差，通过sample点，构建FIRM。同时，由于边的相互独立性，当探测到障碍物和local target，构建subgraph。构建FIRM时同时保存了SLQG控制量，从而有路径复用时，其控制量不需要再计算。
 
 ## pomdp with TL
 1. Counterexample-Guided Abstraction Refinement for POMDPs
