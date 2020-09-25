@@ -141,7 +141,7 @@ A collection of papers and projects
 
 ## causality
 1. CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models
->
+> https://github.com/fishmoon1234/DAG-GNN
 
 
 ## useful blogs
