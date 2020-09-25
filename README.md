@@ -149,6 +149,8 @@ Voronoi diagram and Delaunay triangle: https://blog.csdn.net/kevin_darkelf/artic
 
 Chi-square distribution and Chi-square test: https://blog.csdn.net/Doutd_y/article/details/82936007
 
+causality and some tutorials https://www.douban.com/note/747033414/?type=rec&start=60
+
 
 # 研究计划
 
