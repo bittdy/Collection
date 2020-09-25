@@ -151,8 +151,7 @@ Chi-square distribution and Chi-square test: https://blog.csdn.net/Doutd_y/artic
 
 
 # 研究计划
-## 论文修改
-> 加入理论证明，下周完成
+
 ## RRT exploration and abstract
 > 结合RRT探索的point based对于POMDP的探索以及抽象  clock guard is convex, see ppt
 ## barrier function
