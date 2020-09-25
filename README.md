@@ -140,7 +140,8 @@ A collection of papers and projects
 2.
 
 ## causality
-1.
+1. CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models
+>
 
 
 ## useful blogs
