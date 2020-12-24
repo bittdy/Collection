@@ -153,6 +153,10 @@ causality and some tutorials: https://www.douban.com/note/747033414/?type=rec&st
 
 https://www.jiqizhixin.com/articles/102803
 
+MCMC、M-H以及Gibbs详解：https://www.cnblogs.com/pinard/p/6638955.html
+
+MCMC就是将一个易于采样的分布的样本根据接收率转化为平稳分布的样本。M-H放宽了接受率使得采样效率提高。
+
 知乎专栏
 https://zhuanlan.zhihu.com/p/113240164
 
