@@ -165,6 +165,8 @@ https://zhuanlan.zhihu.com/p/47282410
 
 残差网络：https://zhuanlan.zhihu.com/p/42706477
 
+独热编码：https://www.cnblogs.com/zongfa/p/9305657.html 数据标注方法之一，用于attention机制的transform中，给词汇集进行编码
+
 知乎专栏
 https://zhuanlan.zhihu.com/p/113240164
 
