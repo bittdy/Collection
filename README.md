@@ -159,6 +159,10 @@ MCMC就是根据细致平稳条件（充分不必要，有的马尔科夫链不�
 
 逻辑回归：https://blog.csdn.net/zjuPeco/article/details/77165974
 
+Attention机制：https://jalammar.github.io/illustrated-transformer/
+
+https://zhuanlan.zhihu.com/p/47282410
+
 知乎专栏
 https://zhuanlan.zhihu.com/p/113240164
 
