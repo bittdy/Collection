@@ -163,6 +163,8 @@ Attention机制：https://jalammar.github.io/illustrated-transformer/
 
 https://zhuanlan.zhihu.com/p/47282410
 
+残差网络：https://zhuanlan.zhihu.com/p/42706477
+
 知乎专栏
 https://zhuanlan.zhihu.com/p/113240164
 
